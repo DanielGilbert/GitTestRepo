@@ -1,0 +1,1 @@
+git-content shows the content of an empty git repository that just got initialized
