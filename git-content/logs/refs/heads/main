@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 c51b1e89f8f6bbfa32a460318bede5e772c2906b Daniel Gilbert <ich@danielgilbert.de> 1673693488 +0100	commit (initial): Adds the content of an empty git repository to itself
+c51b1e89f8f6bbfa32a460318bede5e772c2906b c51b1e89f8f6bbfa32a460318bede5e772c2906b Daniel Gilbert <ich@danielgilbert.de> 1673693496 +0100	Branch: renamed refs/heads/master to refs/heads/main

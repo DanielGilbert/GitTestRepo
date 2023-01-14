@@ -1,1 +1,1 @@
-git-content shows the content of an empty git repository that just got initialized
+git-content shows the content of the repository with the last commit, added some files to it
